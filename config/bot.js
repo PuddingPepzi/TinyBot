@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODMwMjgyMDIyMTE0OTUxMjA4.YHEaYw.uSdCeNYdEfHpjU3uCw_lS8x411Y',
+        token: 'config.token',
         prefix: '!',
         activity: 'The Swaggest DJ',
     },
