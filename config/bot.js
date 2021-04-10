@@ -1,0 +1,17 @@
+module.exports = {
+    emojis: {
+        off: ':x:',
+        error: ':warning:',
+        queue: ':bar_chart:',
+        music: ':musical_note:',
+        success: ':white_check_mark:',
+    },
+
+    discord: {
+        token: 'ODMwMjgyMDIyMTE0OTUxMjA4.YHEaYw.peBvQTroSMd8S9r4o3MFsJmfsdU',
+        prefix: '!',
+        activity: 'The Swaggest DJ',
+    },
+
+    filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
+};
